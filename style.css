@@ -12,8 +12,8 @@ body {
 }
 
 .form-group.required .col-form-label:after {
-    content:" *";
-    color:red;
+    content: " *";
+    color: red;
 }
 
 .top {
